@@ -1,0 +1,5 @@
+classes = 2
+train = data/fire_train.txt
+valid = data/fire_test.txt
+names = data/fire.names
+backup = backup/
